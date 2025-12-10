@@ -195,10 +195,6 @@ This project is open source and educational purpose only.
 
 ⭐ **Star this repository if you find it helpful!**
 
-## 🐛 Known Issues
-
-If you encounter any issues, please [open an issue](https://github.com/MeetBataviya13/library-management-system/issues) on GitHub.
-
 ## 📞 Support
 
 For support and questions, please open an issue in the GitHub repository.
