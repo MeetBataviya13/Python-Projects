@@ -43,7 +43,7 @@ A modern, user-friendly library management system built with Python and Streamli
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/MeetBataviya13/library-management-system.git
+git clone https://github.com/MeetBataviya13/Python-Projects.git
 ```
 
 2. Navigate to the project directory:
