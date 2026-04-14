@@ -44,7 +44,7 @@ Before running this file manager, make sure you have:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/MeetBataviya13/file-manager.git
+git clone https://github.com/MeetBataviya13/Python-Projects.git
 cd file-manager
 ```
 
