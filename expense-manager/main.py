@@ -1,5 +1,6 @@
 from modules.expense import add_expense, view_expenses, update_expense, delete_expense
 from utils.menu import show_menu
+from db.connection import connect_db, close_db
 
 
 def main():
